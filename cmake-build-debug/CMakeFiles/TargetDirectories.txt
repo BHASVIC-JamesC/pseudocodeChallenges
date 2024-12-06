@@ -1,0 +1,3 @@
+C:/Users/james.cook24/Downloads/pseudocodeChallenges/cmake-build-debug/CMakeFiles/pseudocodeChallenges.dir
+C:/Users/james.cook24/Downloads/pseudocodeChallenges/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/james.cook24/Downloads/pseudocodeChallenges/cmake-build-debug/CMakeFiles/rebuild_cache.dir

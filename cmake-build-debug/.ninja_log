@@ -1,0 +1,19 @@
+# ninja log v6
+3	93	7551957245047610	CMakeFiles/pseudocodeChallenges.dir/challenge1.c.obj	9fcb6b199bbee3b8
+2	87	7551931607267817	CMakeFiles/pseudocodeChallenges.dir/challenge2.c.obj	e65b56a3c4988974
+3	247	7551967343881070	build.ninja	2c60360d6949ae06
+5	164	7551920419017082	CMakeFiles/pseudocodeChallenges.dir/library.c.obj	fc52140f462e6087
+2	95	7551937755031386	CMakeFiles/pseudocodeChallenges.dir/Challenge3.c.obj	c70fdc3a86ba94e2
+4	577	7551920623914810	libpseudocodeChallenges.a	a7a30d88b785b934
+5	132	7551964080361775	pseudocodeChallenges.exe	f4cfcd6dc76689c0
+5	96	7551947470362148	CMakeFiles/pseudocodeChallenges.dir/Challenge4.c.obj	58678437aa26ca03
+5	101	7551952125260795	CMakeFiles/pseudocodeChallenges.dir/Challenge5.c.obj	3f580b68d014ebd8
+5	97	7551961979348551	CMakeFiles/pseudocodeChallenges.dir/Challenge6.c.obj	a1de831e38e4b1d7
+5	91	7551963977017501	CMakeFiles/pseudocodeChallenges.dir/Challenge7.c.obj	8f47f00a73a3af49
+2	260	7551967343881070	build.ninja	2c60360d6949ae06
+2	92	7551967344230758	CMakeFiles/pseudocodeChallenges.dir/Challenge8.c.obj	459ce81eae3bf1a8
+95	215	7551967345164209	pseudocodeChallenges.exe	d4d559312c3c92cd
+6	91	7551967420082170	CMakeFiles/pseudocodeChallenges.dir/Challenge8.c.obj	459ce81eae3bf1a8
+92	211	7551967420936537	pseudocodeChallenges.exe	d4d559312c3c92cd
+5	90	7551967753099090	CMakeFiles/pseudocodeChallenges.dir/Challenge8.c.obj	459ce81eae3bf1a8
+90	217	7551967753958523	pseudocodeChallenges.exe	d4d559312c3c92cd
